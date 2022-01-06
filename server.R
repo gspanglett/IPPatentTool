@@ -1,4 +1,4 @@
-# Copyright 2021, Sarah Crothers and Gareth Spanglett
+# Copyright 2020-2021, Sarah Crothers <scrot021@uottawa.ca> and Gareth Spanglett <gspan042@uottawa.ca>
 # Authors:  Gareth Spanglett, Sarah Crothers
 # GNU General Public License v3.0
 #
